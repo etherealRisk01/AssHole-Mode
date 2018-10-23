@@ -27,12 +27,12 @@ Check the output and if you see "Injection is working!" then you are good to go.
 ************************
 Disclaimer:
 
-1. This tool is for educational purposes only. :)
-2 .Contrary to what I named this tool, don't be an asshole. Use it on wireless networks that YOU control.
-3. Like your regular WiFi connection, sources of WiFi interference can also affect your ability to jam other wireless connections.
+This tool is for educational purposes only. :)
+Contrary to what I named this tool, don't be an asshole. Use it on wireless networks that YOU control.
+Like your regular WiFi connection, sources of WiFi interference can also affect your ability to jam other wireless connections.
 Please look at the following websites for reference:
-https://support.apple.com/en-us/HT201542
+https://support.apple.com/en-us/HT201542 ,
 https://www.netspotapp.com/wifi-interference.html
-4. This will work until the WPA3 security protocol is rolled-out on all wireless devices.
+This will work until the WPA3 security protocol is rolled-out on all wireless devices.
 
 ************************
